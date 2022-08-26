@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b76119e51627b17463c05be49ce9a81251b6f3f420901&rid=giphy.gif&ct=s)]
+[![MasterHead](https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif)]
 <h1 align="center">Hi 👋, I'm Pratik Padalkar</h1>
 <h3 align="center">A passionate ROS developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
