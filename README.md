@@ -83,6 +83,10 @@
 
 ---
 
+[![Holopin Profile](https://holopin.me/pratik00019)](https://holopin.io/@pratik00019)
+
+---
+
 <h3 align="center" style="color: #007acc;">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik00019&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
@@ -96,6 +100,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik00019&theme=highcontrast" alt="GitHub Streak"/>
 </p>
 
----
-
-[![Holopin Profile](https://holopin.me/pratik00019)](https://holopin.io/@pratik00019)
